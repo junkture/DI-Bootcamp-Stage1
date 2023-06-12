@@ -1,0 +1,65 @@
+body {
+	font-family: "Trirong", serif;
+	background-color: powderblue;
+}
+#main {
+	margin: auto;
+	width: 80%;
+	max-width: 680px;
+	padding: 10px;
+	background-color: #F5F5F5;
+	border-radius: 10px;
+}
+#doc-header {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+#title {
+	padding: 0px;
+	margin: 0px;
+	text-align: center;
+}
+#title-addition {
+	padding: 0px;
+	margin: 0px;
+	text-align: center;
+}
+#img-div {
+	background-color: lightgrey;
+	margin: auto;
+	text-align: center;
+	width: 100%;
+	max-width: 660px;
+	border-radius: 5px;
+}
+#image {
+	margin: auto;
+	width: 95%;
+	padding: 10px;
+}
+#img-caption {
+	font-style: italic;
+}
+#info-header {
+	text-align: center;
+	font-weight: bold;
+}
+#tribute-info {
+	margin: auto;
+	width: 30%;
+	min-width: 350px;
+}
+#tribute-link {
+	text-decoration: none;
+	color: darkblue;
+}
+#ending {
+	width: 100%;
+	max-width: 660px;
+	margin: auto;
+	text-align: center;
+}
+.bio-list {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
